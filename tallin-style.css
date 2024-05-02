@@ -1,0 +1,88 @@
+.main2{
+   
+}
+.footer{
+   
+}
+.header{
+    position: relative;
+}
+.main2{
+  
+
+}
+.image-main{
+    width: 286px;
+height: 277px;
+border-radius: 10px;
+}
+.btn-smth{
+    border-radius: 25px;
+margin-left: 55px;
+background: rgb(2, 36, 100);width: 152px;
+height: 50px;
+margin-top: 15px;
+color: rgb(255, 255, 255);
+font-family: Montserrat;
+font-size: 14px;
+font-weight: 700;
+line-height: 17px;
+letter-spacing: 0%;
+text-align: center;
+transition: 0.9s;
+}
+.btn-smth:hover{
+    background-color: #fff;
+    transition: 0.8s;
+    cursor: pointer;
+    color: rgb(9, 56, 143);
+    border: 5px solid black;
+}
+.title-text-text{
+
+    color: rgb(0, 0, 0);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 29px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.text-text{
+  
+    color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 14px;
+font-weight: 300;
+line-height: 17px;
+letter-spacing: 0%;
+text-align: left;
+margin-top: 15px;
+}
+.text-title-text{
+    width: 398px;
+    margin-left: 25px;
+
+}
+.central{
+    display: flex;
+    width: 1200px;
+    margin: 100px auto;
+}
+.img-btn{
+    
+}
+.img-btn{
+    display: flex;
+    flex-direction: column;
+}
+.price{
+    margin-top: 20px;
+    color: rgb(0, 0, 0);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 29px;
+    letter-spacing: 0%;
+    text-align: center;
+}
